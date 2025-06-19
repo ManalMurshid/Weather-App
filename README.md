@@ -22,6 +22,15 @@ The design was first created using Canva to visualize layout and structure.
 
 [The wireframe design on Canva](https://www.canva.com/design/DAGqwejdjTk/HgOeiCwC--zqiR2IP-pkVQ/edit?utm_content=DAGqwejdjTk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## Phase 2: Core Development
+- Developed Front End components
+- Integrated OpenWeatherMap API
+- Implemented live search input for city
+- Displayed:
+  - Temperature
+  - Humidity 
+  - Wind speed 
+
 
 
 
